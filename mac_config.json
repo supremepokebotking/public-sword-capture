@@ -1,0 +1,16 @@
+{
+    "device": 0,
+    "serial_port": "/dev/tty.usbserial-14240",
+    "team_label_id": null,
+    "ai_style": "twitch",
+    "session_mode": "single",
+    "battle_style": "wild",
+    "twitch_channel": "#twitchplayspokemonswsh",
+    "twitch_botname": "PokeTwitchobot",
+    "twitch_oauth": "oauth:dmwhl48wtstw89fz9nehfxjpakhmwj",
+    "trainer_name": "thunder",
+    "user_id": "ns_runner_2",
+    "new_team_name": "A new team",
+    "use_twitch": true,
+    "use_gstream": false
+}

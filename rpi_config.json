@@ -1,0 +1,12 @@
+{
+    "device": 0,
+    "serial_port": "/dev/tty.usbserial-14240",
+    "team_label_id": null,
+    "ai_style": "rando",
+    "session_mode": "single",
+    "battle_style": "wild",
+    "trainer_name": "thunder",
+    "user_id": "rpi_runner_2",
+    "new_team_name": "A new team",
+    "use_gstream": false
+}

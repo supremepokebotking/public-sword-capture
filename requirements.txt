@@ -1,0 +1,10 @@
+Flask
+jsonpickle
+flask-cors
+numpy>=1.16.0
+opencv-contrib-python==3.4.4.19
+pillow>=6.2.0
+flask_restful
+pyarmor
+pyserial
+requests

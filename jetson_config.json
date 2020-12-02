@@ -1,0 +1,12 @@
+{
+    "device": "/dev/v4l/by-path/platform-3530000.xhci-usb-0:2.1.4:1.0-video-index0",
+    "serial_port": "/dev/ttyUSB1",
+    "team_label_id": "51ae823f-c24d-47dc-8325-5add2a635e17",
+    "ai_style": "rando",
+    "session_mode": "single",
+    "battle_style": "wild",
+    "trainer_name": "thunder",
+    "user_id": "jetson_runner_1",
+    "new_team_name": "A new team",
+    "use_gstream": true
+}
